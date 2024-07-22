@@ -4,6 +4,11 @@
 [submodule "characters/mb_male/assets"]
 	path = characters/mb_male/assets
 	url = https://github.com/Upliner/mb-assets
+<<<<<<< HEAD
 [submodule "characters/Vitruvian"]
 	path = characters/Vitruvian
+=======
+[submodule "characters/CharMorph-Vitruvian"]
+	path = characters/CharMorph-Vitruvian
+>>>>>>> parent of d1213a8 (Attempt cleaner submodule path name .gitmodules)
 	url = https://github.com/Upliner/CharMorph-Vitruvian.git
