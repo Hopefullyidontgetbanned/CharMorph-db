@@ -4,3 +4,6 @@
 [submodule "characters/mb_male/assets"]
 	path = characters/mb_male/assets
 	url = https://github.com/Upliner/mb-assets
+[submodule "characters/CharMorph-Vitruvian"]
+	path = characters/CharMorph-Vitruvian
+	url = https://github.com/Upliner/CharMorph-Vitruvian.git
